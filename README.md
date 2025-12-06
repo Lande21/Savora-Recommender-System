@@ -29,7 +29,8 @@ As dining options expand, users struggle to sift through thousands of restaurant
 - Restaurant metadata: name, price, categories, location
 - User-generated review text
 - Ratings and timestamps
-  
+  - Big Data Architecture
+  - 
 ### Hadoop Pipeline
 Built a MapReduce workflow running on **Hadoop 2.8.2 in Docker** to process millions of reviews:
 
@@ -76,5 +77,14 @@ This approach significantly improves recommendations for new users and new resta
 - Sentiment scores from review text improved content-based matching accuracy dramatically.
 - Price alignment is a major driver of acceptance — users rarely accept suggestions far outside their normal price band.
 - Combining both behavioral patterns and textual review signals produces **more human-like recommendations**.
+  
 
-## 6. Example Outputs
+## 6. Example Outputs/slides and 
+
+## 7. Tech Stack
+- Hadoop 2.8.2 (Docker) — MapReduce ETL
+- Python 2.7.5 (for compatibility)
+- Spark MLlib (ALS, TF-IDF, sentiment, hybrid modeling)
+- Pandas, NLTK
+- Jupyter Notebook
+- GitHub for version control

@@ -45,7 +45,7 @@ Built a MapReduce workflow running on **Hadoop 2.8.2 in Docker** to process mill
 - Review frequency + recency weighting
   
 ## 3. Machine Learning Model (Spark MLlib)
-## Recommendation Strategy: Hybrid Model
+### Recommendation Strategy: Hybrid Model
 To increase accuracy, the platform combines:
 
 1. Collaborative Filtering (ALS)
@@ -64,3 +64,17 @@ Final prediction = 0.65 **Collaborative + 0.35** Content-Based
  
 This approach significantly improves recommendations for new users and new restaurants, a weakness of traditional CF-only systems.
 
+## 4. Model Performance
+
+- **RMSE** improved by **~17%** after hybridization
+- Better handling of cold-start scenarios
+- Meaningful clustering of users by cuisine affinity
+- Increased diversity in recommended restaurants (lower redundancy)
+
+## 5. Key Insights
+
+- Sentiment scores from review text improved content-based matching accuracy dramatically.
+- Price alignment is a major driver of acceptance — users rarely accept suggestions far outside their normal price band.
+- Combining both behavioral patterns and textual review signals produces **more human-like recommendations**.
+
+## 6. Example Outputs

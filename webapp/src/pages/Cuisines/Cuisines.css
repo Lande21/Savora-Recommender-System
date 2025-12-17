@@ -1,0 +1,30 @@
+.cuisine-card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.cuisine-card:hover {
+  transform: translateY(-10px);
+}
+
+.restaurant-card {
+  transition: all 0.3s ease;
+}
+
+.restaurant-card:hover {
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+}
+
+.cuisine-search {
+  margin-bottom: 30px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .cuisine-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .restaurant-image {
+    height: 180px !important;
+  }
+}

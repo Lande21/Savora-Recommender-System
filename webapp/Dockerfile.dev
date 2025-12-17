@@ -1,0 +1,19 @@
+FROM node:18
+
+WORKDIR /app
+
+# Install dependencies
+COPY package.json ./
+COPY package-lock.json ./
+RUN npm install
+
+# Copy the rest of the application code
+# Note: In practice, this COPY is not needed since we mount the ./webapp directory
+# into the container, but it's here for completeness
+COPY . .
+
+# Expose the port the app runs on
+EXPOSE 3001
+
+# Start the development server
+CMD ["npm", "start"]

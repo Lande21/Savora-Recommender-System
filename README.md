@@ -79,8 +79,8 @@ This approach significantly improves recommendations for new users and new resta
 - Combining both behavioral patterns and textual review signals produces **more human-like recommendations**.
   
 
-## 6. Example Outputs/slides and 
-
+## 6. Pitch Deck / Presentation
+![Savora presentation deck](https://github.com/Lande21/Savora-Recommender-System/blob/main/SAVORA_CIS641_Pitch%202.pdf)
 ## 7. Tech Stack
 - Hadoop 2.8.2 (Docker) — MapReduce ETL
 - Python 2.7.5 (for compatibility)

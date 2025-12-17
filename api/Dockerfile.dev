@@ -1,0 +1,15 @@
+FROM maven:3.8.6-openjdk-11-slim
+
+WORKDIR /app
+
+# Copy the pom.xml file
+COPY pom.xml .
+
+# Download all required dependencies
+RUN mvn dependency:go-offline -B
+
+# Copy source code
+COPY src ./src
+
+# Run the application in development mode with remote debugging enabled
+CMD ["mvn", "spring-boot:run", "-Dspring-boot.run.jvmArguments='-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=*:5005'"]

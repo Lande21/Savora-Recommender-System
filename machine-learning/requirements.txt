@@ -1,0 +1,7 @@
+flask
+tensorflow
+numpy
+pandas
+psycopg2
+cassandra-driver
+redis

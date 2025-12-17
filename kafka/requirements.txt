@@ -1,0 +1,6 @@
+kafka-python==2.0.2
+hdfs==2.7.0
+requests>=2.25.0
+six>=1.16.0
+requests-kerberos>=0.14.0
+psycopg2-binary

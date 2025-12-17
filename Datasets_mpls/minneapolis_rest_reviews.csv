@@ -1,0 +1,401 @@
+review_id,restaurant_name,user_name,rating,comment,cuisine,review_date
+07de0e56-8279-40fd-b99d-c8d59d284c7f,Oconnell LLC Diner,Joseph Howard,1,The pasta was overcooked and bland.,French,2024-10-19
+af05df63-01fa-40cb-a448-8cfc9c3db0e9,"Key, Sanford and Wright Diner",David Reed,2,Tacos were soggy and lacked seasoning.,American,2025-02-08
+e1657e79-14d2-4f74-a6f4-55c23691e412,"Lopez, Richards and Smith Grill",Brandon Ryan,3,"The food was okay, nothing too special.",Italian,2024-12-04
+2da74e69-e9cf-439b-85d0-8ee1a8d8ca44,Cook-Day Diner,Briana Harris,2,Desserts were overpriced and underwhelming.,Mexican,2024-06-30
+3d9bee1d-80c2-466b-9b11-583da59c872f,Combs Inc Diner,Courtney Carey,3,"Average experience — not bad, not great.",Indian,2024-10-21
+e3034eab-dfcb-4666-8b5f-91a63d72d21d,Walker-Webb Grill,Kerry Myers,5,The curry had the perfect balance of spices.,French,2024-06-19
+bc5276a7-a392-48d2-bc84-0a363dabcdc3,Carrillo-Smith Kitchen,Matthew Beck,2,The pasta was overcooked and bland.,Japanese,2024-09-10
+427fea2a-f3d8-4a99-9972-6641b9431188,Luna-Cole Steakhouse,Brian Marshall,3,"The food was okay, nothing too special.",Indian,2024-12-14
+fe736feb-e551-4258-ad1b-d39deef5a46e,"Martin, Taylor and Olson Steakhouse",Joseph Decker,3,"Decent service, but I've had better meals elsewhere.",Japanese,2024-07-10
+7b746529-472d-4531-987b-21146ac3a33a,Cardenas-Martin Bistro,Michael Johnson,5,Amazing burgers with crispy fries on the side.,Japanese,2024-09-06
+df1d4570-6f14-4e45-ac0b-17bd9753180c,"Young, Rangel and Gomez Diner",Sarah Cooper,3,"Portions were fair, but the flavors didn’t stand out.",Indian,2024-10-22
+3d285c3b-4a14-4252-9dbf-a750ff194488,Evans-Foster Bistro,Mario Byrd,2,The burger was dry and the fries were cold.,Mexican,2024-08-20
+2d08a5fe-0897-429c-898a-2875a3246271,"Martin, Taylor and Olson Steakhouse",Heather Wade,1,Desserts were overpriced and underwhelming.,Mexican,2024-08-01
+f3065e4b-e457-49b4-82d2-e1fbda3be858,Nelson-Frazier Cafe,Joshua Riley,3,"Decent service, but I've had better meals elsewhere.",Mexican,2025-02-25
+8c55df4d-83ee-49ca-ad05-9a4fd72be5cd,Richardson PLC Eatery,Christian Schroeder,1,The sushi tasted off and lacked freshness.,French,2025-02-13
+55788028-9c7b-4561-91d9-89225a021c96,"Bryan, Anthony and Simon Diner",Vanessa Meyers,5,The tacos were bursting with authentic taste.,American,2024-06-03
+b1db74ca-eda5-41fc-8d6a-835c33734958,Harris Group Kitchen,Nicole Guerra,2,The pasta was overcooked and bland.,French,2025-01-07
+81c22ead-e278-4bbd-87a3-b0242b22feef,"Riddle, Estes and Brown Cafe",Benjamin Miller,1,Tacos were soggy and lacked seasoning.,Indian,2024-03-22
+b9f3c722-8241-4845-a4d1-566b4d512d73,"Mcclain, Lowe and Henson Kitchen",James Saunders,4,Loved the elegant desserts and fine wine selection.,French,2024-07-26
+beb90729-eb38-4128-93af-15ce796e650a,"Martin, Torres and Taylor Bistro",Steven Cole,5,Loved the elegant desserts and fine wine selection.,American,2024-12-16
+0f68c2cf-b23e-4d56-b6ce-b19f45d268be,"Morgan, Thompson and Paul Kitchen",Nicole Guerra,3,"Decent service, but I've had better meals elsewhere.",American,2024-12-10
+9f66b7b6-5776-437c-a334-30aefdacba85,"Anthony, Fitzpatrick and Ellis Diner",Linda Fox,5,Exceptional sushi — fresh and beautifully presented.,Indian,2024-05-25
+f9745094-a2ef-4c6b-8b3e-9a111088d6a6,"Hill, Bentley and Green Eatery",Stacy Martin,5,Amazing burgers with crispy fries on the side.,Italian,2024-11-17
+ce565d69-7057-4f0f-a210-a713f3dae5c7,"Clark, Brown and White Diner",Charles Haas,2,The pasta was overcooked and bland.,Indian,2025-02-09
+39578d7d-2936-4815-bdba-dc33f54a2766,Shannon-Finley Kitchen,Jacob Schultz,5,Loved the elegant desserts and fine wine selection.,Japanese,2024-06-27
+b866f56f-e9cc-468a-9f3b-0cb35ab7d129,"Edwards, Russo and Lutz Eatery",Robert Norman,1,The sushi tasted off and lacked freshness.,Italian,2025-02-10
+5ec4307f-0468-45f1-81ef-6bbb1ecf33b4,"Wright, Solomon and Haas Kitchen",Nicholas Becker,1,The sushi tasted off and lacked freshness.,French,2024-05-26
+841d6ab1-05bb-4cef-8d49-3c3cf80ca326,"Kaiser, Snow and Brown Steakhouse",Brian Marshall,4,Amazing burgers with crispy fries on the side.,French,2024-06-18
+841d159e-e545-4801-b7c2-a82e593f3522,Estrada Ltd Diner,Debra Miller,1,The curry was too salty and overpowering.,Japanese,2024-11-05
+0c113f67-aa5b-41a8-ac62-d86c805b91b2,Hoffman-Randall Diner,Diana Todd,5,The tacos were bursting with authentic taste.,Mexican,2025-01-23
+bb691f70-b382-4b68-93ff-e0907fe8904e,Scott-Ford Bistro,Robert Norman,5,The tacos were bursting with authentic taste.,Mexican,2024-05-01
+4cc02fca-828f-4808-a0a0-08723a68046d,Fox-Stewart Eatery,Vanessa Meyers,2,The pasta was overcooked and bland.,American,2024-05-13
+cd3b0108-888c-4e7d-a3f4-823711a46f6b,"Scott, Hughes and Miller Eatery",Ryan Taylor,5,Exceptional sushi — fresh and beautifully presented.,American,2024-11-16
+9be5f1f1-daf7-4fe1-a828-eb2b0fb78584,"Campbell, Rodriguez and Flynn Diner",Holly Guerra,4,The curry had the perfect balance of spices.,American,2025-02-12
+e6313c47-0f0e-4ed8-a638-3b500d84dc80,Burns Inc Eatery,Sara Figueroa,3,"The food was okay, nothing too special.",French,2024-06-30
+5100917b-f86a-4f91-943e-3c9e3001eacf,Colon-David Eatery,Holly Guerra,4,The pasta was perfectly cooked and full of flavor!,French,2025-02-15
+675a879a-6aaa-41a2-b730-bd2325f8d9c7,Yates Inc Eatery,Phillip Brown,2,Desserts were overpriced and underwhelming.,Mexican,2024-05-16
+eab45b8f-540e-4830-8a82-d03df334c186,"Lawson, Mitchell and Johnson Steakhouse",Christopher Graham,3,"A simple meal, met expectations but didn’t wow me.",American,2024-09-03
+9f71454d-e1bf-454c-b220-7ff4a70d87b5,Smith-Baxter Diner,Timothy Reynolds,5,Loved the elegant desserts and fine wine selection.,French,2024-07-09
+513bb161-8a52-4852-8553-979bca5dc3a6,"Horton, Chung and Kelly Cafe",Jeffrey Morton,5,Amazing burgers with crispy fries on the side.,American,2025-01-04
+c535a39f-8ba7-48b0-85a4-9c04c8bbc0a0,Moss-Kane Grill,Robert Holt,4,The tacos were bursting with authentic taste.,Indian,2024-03-12
+5262af28-6767-4288-b38d-34af77b5dd6b,"Smith, Jimenez and Morgan Cafe",Lisa White,3,"The food was okay, nothing too special.",Indian,2024-06-21
+a7317b25-e864-4483-a001-3e9b50d99ab3,"Hill, Holt and Moore Grill",Christina Palmer,4,The curry had the perfect balance of spices.,Mexican,2024-04-09
+4ffb9344-8e2c-4671-9baa-14c0e8a2dc2c,"Riley, Garcia and Terry Diner",Jacob Schultz,3,"Decent service, but I've had better meals elsewhere.",American,2024-08-28
+efcc58d3-4613-499c-a258-bf0114af2e6e,Harris Group Kitchen,John Rodriguez,4,Loved the elegant desserts and fine wine selection.,French,2024-12-07
+aabdbc22-0ae6-4e8f-b7b5-bdba4d152da3,"Bryan, Anthony and Simon Diner",Michael Johnson,2,The sushi tasted off and lacked freshness.,Japanese,2025-03-01
+6adb5b8c-84d6-4c46-a1c0-a70803b21144,"Davila, Conley and Jacobs Bistro",Anthony Cook,3,"A simple meal, met expectations but didn’t wow me.",French,2024-10-08
+45dc0559-73a1-4fb7-801b-00c7d56c056e,"Vasquez, Chavez and Perry Eatery",David Kaiser,3,"A simple meal, met expectations but didn’t wow me.",Indian,2025-01-17
+1e67ddb3-536b-42c6-b8fc-01cdd8afdbdf,Adams-Miller Kitchen,Benjamin Morrison,1,The burger was dry and the fries were cold.,Japanese,2025-01-03
+33267a95-36e3-4ba5-a5cc-c7018223cbc2,"Hawkins, Maldonado and Garcia Bistro",Kevin Alvarez,4,Exceptional sushi — fresh and beautifully presented.,Indian,2024-03-10
+e28697fb-d318-43de-88df-b31066d0481c,Brooks-Fritz Eatery,Linda Stafford,5,The curry had the perfect balance of spices.,Japanese,2024-08-13
+49a42357-b763-45e6-a6d0-94eb2c74de36,Clark-Hamilton Eatery,Veronica Hall,1,Desserts were overpriced and underwhelming.,Mexican,2024-04-17
+f385d64d-6f2b-43e1-9995-640bbf119bae,Murray LLC Grill,Anthony Haley,3,"The food was okay, nothing too special.",Mexican,2024-06-05
+e0a6b67b-fcdd-429f-bffd-9d0400b0fc0b,"Cochran, Castro and Hale Cafe",Courtney Carey,3,"Portions were fair, but the flavors didn’t stand out.",Japanese,2024-03-01
+8cd0d586-f575-41e6-a597-be128115b857,Williams-Hughes Bistro,Veronica Whitaker,3,"Portions were fair, but the flavors didn’t stand out.",Indian,2025-02-23
+e4e5604f-9659-48c2-ab9f-849acd88d2db,"Quinn, Hopkins and Lewis Bistro",Edward Escobar,4,Amazing burgers with crispy fries on the side.,Japanese,2024-10-13
+14eca633-44b3-4fd0-8012-243b2fe170f3,"Torres, Huffman and Berry Diner",Michael Anderson,2,The curry was too salty and overpowering.,Japanese,2025-01-21
+06899656-5bc8-45c3-9479-c6d3385a3690,"Lewis, Barton and Cowan Bistro",Rodney Miller,4,The curry had the perfect balance of spices.,French,2024-08-06
+d32da4bd-5de9-4635-abda-99badf8ad095,"Campbell, Rodriguez and Flynn Diner",Victoria Smith,5,Amazing burgers with crispy fries on the side.,Mexican,2024-10-07
+1d385bb1-9b01-4953-b733-1e25abbd74e3,"Mccann, Harvey and Short Bistro",Kelly Walker,4,Loved the elegant desserts and fine wine selection.,American,2024-06-12
+6d5c1d6b-64b3-4548-9630-dfd6507fd7b8,Lee Group Diner,James Saunders,2,The burger was dry and the fries were cold.,French,2024-10-18
+2a94434d-69df-4cba-87bc-aece97a7710b,"Harris, Valdez and Romero Steakhouse",Ryan Mendez,5,Amazing burgers with crispy fries on the side.,Italian,2024-08-12
+ec4b7f53-584f-4bc6-b7b6-2996918a06b5,Griffin LLC Diner,Nicholas Richardson,5,Amazing burgers with crispy fries on the side.,American,2024-10-26
+8c971f6b-8c3a-4664-b74d-a0c475531e48,"Rich, Dixon and Browning Diner",Kevin Alvarez,4,The curry had the perfect balance of spices.,Japanese,2024-11-10
+52ac27aa-6d57-42a1-869d-b2efc306a94d,"Burke, Smith and Ward Grill",Stacy Walker,3,"Portions were fair, but the flavors didn’t stand out.",Italian,2024-08-24
+af13684c-72c6-4867-8b06-57b74701c52b,Weaver-Nixon Diner,Lynn Smith,5,Exceptional sushi — fresh and beautifully presented.,French,2024-12-30
+d1408817-dd25-437b-af80-6543b078b545,"Baker, Hernandez and Martinez Cafe",Joseph Robles,5,The curry had the perfect balance of spices.,American,2024-09-30
+69b4c129-0d20-443b-a0d4-4f028b7cfb8b,"Flores, Wolfe and Weber Cafe",Brandon Lang,4,The pasta was perfectly cooked and full of flavor!,French,2024-10-30
+9618f416-4109-42b8-b489-6dee3677dc70,Anderson and Sons Grill,Sara Figueroa,1,The sushi tasted off and lacked freshness.,Mexican,2025-02-24
+7ed2bdbd-df64-4c21-b208-64e50633dc6a,"Manning, Perez and Parker Grill",Alec Simmons,2,The curry was too salty and overpowering.,Mexican,2024-11-05
+0ea6be02-cedf-402e-b5a5-375afb8b8e99,Williamson Group Cafe,Heather Wade,2,Desserts were overpriced and underwhelming.,French,2024-09-22
+9bfbc633-115d-4edb-b106-70d296f0b074,"Salas, Martinez and Wilson Steakhouse",Mikayla Keller,2,Tacos were soggy and lacked seasoning.,Italian,2024-08-10
+66f11e02-04cb-48b7-931d-90381b4f6ee6,"Kaiser, Snow and Brown Steakhouse",Jeremy Alvarez,5,Exceptional sushi — fresh and beautifully presented.,Italian,2024-11-09
+61d56d0e-c6cd-403a-b580-a6317c6f2f05,"Torres, Huffman and Berry Diner",Nicole Duran,4,The tacos were bursting with authentic taste.,French,2024-03-01
+8f16eecb-83b7-4585-b2d6-18b1d8010737,"Casey, Baker and Martinez Diner",Justin Sellers,3,"Average experience — not bad, not great.",Italian,2024-08-24
+f9b06c52-7cca-4690-a6a4-7a162fa6aa70,"Shepherd, Lawson and Gonzalez Steakhouse",Shaun Cherry,4,The curry had the perfect balance of spices.,Japanese,2025-01-28
+d5020142-ee1b-4934-9375-8761a7874fc0,"Harding, Villa and Davis Diner",Jeremy Cisneros,4,The curry had the perfect balance of spices.,Italian,2024-11-20
+377a759d-5bb3-4177-a19e-5e970393f4a5,"Strong, Robertson and Green Cafe",Katherine Berry,4,The tacos were bursting with authentic taste.,American,2024-10-25
+d544aab3-dda3-4f04-bccd-c566dcf67fce,Smith-Brewer Bistro,Gerald Jones,1,The sushi tasted off and lacked freshness.,Italian,2024-07-06
+8874bb99-ea5f-4566-b505-a5f53dc6ff3b,Massey Group Steakhouse,Richard Moore,5,The pasta was perfectly cooked and full of flavor!,Indian,2024-05-10
+960a88e4-2031-49d8-82d8-bbc8ba190b65,"Martin, Taylor and Olson Steakhouse",Tiffany Kim,2,Desserts were overpriced and underwhelming.,Indian,2024-11-07
+a8b469f3-9402-417e-8cd3-2a618e27c6e3,Petersen-Vincent Kitchen,Katherine Carey,1,The burger was dry and the fries were cold.,Indian,2025-02-02
+1efbb4ec-2bc8-437b-af5e-71c881377589,Rogers-Acosta Kitchen,Veronica Hall,2,The burger was dry and the fries were cold.,French,2024-08-13
+cfed4bb4-0d79-4590-8926-b0d54639f38d,Fisher-Lynch Grill,Austin Gonzales,5,The curry had the perfect balance of spices.,American,2024-05-26
+7494bb84-f1f8-4ee5-aa22-b7feec6bb09a,Howell Inc Cafe,Jacob Schultz,2,The pasta was overcooked and bland.,Mexican,2025-01-25
+e2c07549-61c7-4e0c-857f-0bdf2ce00408,"Thompson, Hayden and Reynolds Steakhouse",Peter Porter,3,"Portions were fair, but the flavors didn’t stand out.",Mexican,2024-07-27
+8faaaff1-3f62-4007-811f-e933adc3d5f0,Martin Ltd Diner,Nicholas Diaz,1,The burger was dry and the fries were cold.,French,2024-07-05
+b56eac00-ffdf-457a-96d5-04db1cd6f284,"Torres, Huffman and Berry Diner",Joshua Riley,1,The curry was too salty and overpowering.,Indian,2024-09-22
+6db60b4a-68c3-456b-bf08-30811c19f3fb,Moss-Kane Grill,Connie Cox,4,Amazing burgers with crispy fries on the side.,French,2024-07-29
+ca68f419-f319-4f7f-88b8-ce0dfea1dfd8,"Wood, Edwards and Carroll Diner",Monica Russell,5,Amazing burgers with crispy fries on the side.,Indian,2024-04-12
+e6e9e3af-90f8-4ecd-b994-4c9cea01dee4,Greene-Hill Steakhouse,Nicole Duran,3,"Decent service, but I've had better meals elsewhere.",American,2024-08-28
+db532d05-a6b5-4113-b6e9-e92d335a26d0,Rodriguez-White Kitchen,Robin Miller,2,Desserts were overpriced and underwhelming.,Indian,2024-06-20
+4540ad2b-b758-41da-bbe6-e32972d8c0b2,Ellis PLC Eatery,Michele Zimmerman,4,Loved the elegant desserts and fine wine selection.,Indian,2024-08-26
+5b1c8291-7637-43d0-8056-f7ba10fb5204,"Sanchez, Dyer and Combs Diner",Heather Wade,5,The curry had the perfect balance of spices.,Indian,2024-09-12
+6b980836-1de9-470f-87c7-0f8cbc46b66d,"Ward, Allen and Henderson Diner",Veronica Whitaker,2,Tacos were soggy and lacked seasoning.,Japanese,2024-03-17
+bb01522a-ece0-41d6-b14d-d65920488590,King and Sons Bistro,Aaron Carter,3,"The food was okay, nothing too special.",French,2025-02-18
+f1ea402f-2d62-42f9-a491-5cc15c7a97fd,Ochoa Ltd Cafe,Benjamin Anderson,5,Exceptional sushi — fresh and beautifully presented.,Mexican,2025-01-08
+21436a8f-d533-4982-97c3-ed79cc4a8207,"Cochran, Castro and Hale Cafe",Nathan Russell,4,The curry had the perfect balance of spices.,Italian,2024-12-15
+890429b0-2721-4248-a906-bcaef2e28311,Diaz Inc Grill,Robin Miller,4,The pasta was perfectly cooked and full of flavor!,American,2024-10-15
+ac3d1bd0-90cf-441e-92f9-f328c55c4a03,Brooks-Fritz Eatery,Elaine Shields,3,"Portions were fair, but the flavors didn’t stand out.",American,2024-10-15
+2ebe36d8-2ad9-48a1-a557-638e17dcea02,Lewis-Logan Steakhouse,Sarah Hopkins,3,"Decent service, but I've had better meals elsewhere.",American,2024-05-20
+d518112d-8330-48a1-bcb9-d9030f96133f,Coleman Group Diner,Timothy Reynolds,1,The curry was too salty and overpowering.,Indian,2024-08-01
+0ed695c4-606f-447b-b789-2ee6d21be0a8,Kim LLC Eatery,Mark Fisher,3,"A simple meal, met expectations but didn’t wow me.",Japanese,2025-01-17
+69db2c4b-1325-408d-a5d5-829b425d6a60,Mitchell LLC Kitchen,Bradley Guerra,2,The curry was too salty and overpowering.,Mexican,2024-04-17
+c38db462-2562-4c69-acc0-b6ad22eac3a3,Miller-Jones Kitchen,Julian Cisneros,4,The tacos were bursting with authentic taste.,Japanese,2024-09-27
+2838329d-ca24-4a6b-ada3-507930564a93,"Gibson, Munoz and Leach Bistro",Jason Simon,4,Amazing burgers with crispy fries on the side.,Mexican,2024-06-15
+f46c7b2d-294b-4a32-89dc-3b50c4a5fa39,Juarez-Li Bistro,Jacob Schultz,5,The pasta was perfectly cooked and full of flavor!,French,2024-10-17
+fae9513f-6ede-4cb7-9ae7-2b6a8b40b889,Browning-Daniels Eatery,Nicole Duran,4,Amazing burgers with crispy fries on the side.,Japanese,2024-11-22
+f4313179-8438-45c5-a683-8715c49e4a9f,"Wolf, Phillips and Pruitt Cafe",Bradley Guerra,2,The burger was dry and the fries were cold.,Mexican,2024-03-08
+da445dd9-fad3-45e9-963b-de60f45e462a,Meyer Group Kitchen,David Becker,3,"The food was okay, nothing too special.",American,2024-12-14
+0eb11b33-5029-455c-9699-5f8189799b55,Russell PLC Eatery,Michele Zimmerman,2,The curry was too salty and overpowering.,Japanese,2024-09-27
+5af8a538-0a9b-4b43-b2b3-f9e22717b92d,May-Hernandez Cafe,Michelle Moore,2,The pasta was overcooked and bland.,Mexican,2024-11-06
+af454a67-1838-464e-a798-ba8949c7d7bf,Patel LLC Cafe,Nicholas Becker,3,"Average experience — not bad, not great.",French,2025-01-27
+e2f91296-8964-4381-baeb-69a3dd720df5,Smith-Sanders Cafe,Veronica Whitaker,1,Tacos were soggy and lacked seasoning.,American,2024-12-25
+c56ab84f-d332-45d2-a0b6-3089da7a6b20,"Osborn, Sexton and Juarez Diner",Joseph Smith,2,Desserts were overpriced and underwhelming.,American,2024-07-27
+a41befa7-3718-4af2-b781-911f722623b7,"Valentine, Smith and Conner Diner",Thomas Wall,4,The pasta was perfectly cooked and full of flavor!,French,2024-05-30
+88dc6e06-999b-4343-9a4a-e71c5b1fab85,Ruiz-Griffin Kitchen,Joseph Howard,3,"A simple meal, met expectations but didn’t wow me.",Japanese,2024-09-20
+4c4df049-b0a6-4a77-864a-78419bc2944f,Benson Ltd Eatery,Zoe Nelson,2,The sushi tasted off and lacked freshness.,Mexican,2024-08-23
+af9ba74c-9dcd-4ac9-a7f2-8e4693249b86,Marshall Group Kitchen,Jeremy Alvarez,1,Desserts were overpriced and underwhelming.,Mexican,2024-04-04
+2150b891-6028-49ce-be55-87cda8ca6a7e,Mooney-Rodriguez Diner,Gina Compton,3,"Portions were fair, but the flavors didn’t stand out.",Indian,2025-01-13
+6f5b59d0-45b7-4a24-b8d5-8377f35298e5,Rogers-Acosta Kitchen,Thomas Hampton,3,"Decent service, but I've had better meals elsewhere.",Italian,2025-01-27
+44c1c551-d1ac-4de4-83f2-5830b172c0c9,Perez Ltd Diner,Paul Parker,2,The curry was too salty and overpowering.,Japanese,2025-02-03
+a9b23bd6-7f5f-4640-9af6-bf822407323d,"Miller, Harmon and Tucker Bistro",Timothy Richardson,3,"The food was okay, nothing too special.",Indian,2024-10-09
+ddd7f5c3-af5c-4693-b9ce-2a32ad3e074a,Curtis-Fox Diner,Cody Jordan,2,The pasta was overcooked and bland.,American,2024-09-25
+526ca462-195c-48cf-804c-92125ff0ad13,Jenkins PLC Eatery,Christopher Graham,5,The pasta was perfectly cooked and full of flavor!,Indian,2024-08-21
+580710ed-a11e-45f6-a687-b020bb55b861,Williams-Jackson Grill,Kristen Smith,1,The pasta was overcooked and bland.,Italian,2024-11-26
+75c734ae-99a8-427e-b585-665818ae9755,"Contreras, Pratt and Perry Diner",Edward Escobar,1,The curry was too salty and overpowering.,Mexican,2025-02-06
+d042e0a5-f435-4583-9e46-6cb2924a3f7b,Barrera-Dunn Steakhouse,Joseph Robles,1,The curry was too salty and overpowering.,Mexican,2024-12-18
+01524cde-053b-4115-b9ec-22af413fd7ea,"Clark, Brown and White Diner",Matthew Beck,3,"Portions were fair, but the flavors didn’t stand out.",Japanese,2024-03-30
+38cb3ba3-8700-44e5-8fc4-23126f829b03,Willis Group Steakhouse,Connie Cox,2,The sushi tasted off and lacked freshness.,Indian,2024-12-09
+a360f53b-2dd4-4155-8efa-368d60bb94ab,Preston-Welch Eatery,Paula Jones,4,Amazing burgers with crispy fries on the side.,Mexican,2024-06-15
+0a2f664c-6a02-463e-8051-c05b11eefa8f,Brewer-Acevedo Eatery,Paul York,4,The pasta was perfectly cooked and full of flavor!,Japanese,2024-11-20
+8c840a96-a1b8-4107-ac04-ddde513b4730,"Moore, Knight and Hancock Steakhouse",Courtney Carey,5,The pasta was perfectly cooked and full of flavor!,Indian,2024-07-07
+0d0baf23-c2c4-4dbd-8df6-2dac49ecc93a,Rodriguez-White Kitchen,Nicole Duran,4,The pasta was perfectly cooked and full of flavor!,Japanese,2025-02-17
+3665e511-68e8-4556-8158-c8e9f44e7a37,Reynolds-Ellison Grill,Katherine Berry,1,Desserts were overpriced and underwhelming.,Mexican,2024-10-15
+c0082b4e-b6f5-47e0-9158-a0b8bf45a283,"Lopez, King and Johnson Kitchen",Peter Porter,3,"Average experience — not bad, not great.",Mexican,2025-02-08
+4b465426-9716-4daf-81b9-b56e16560fca,"Hunter, King and Wallace Steakhouse",Zachary Lopez,1,Desserts were overpriced and underwhelming.,American,2024-12-26
+094c6ff4-d181-4ee4-a46f-beaf6a866be3,Oconnell LLC Diner,David Francis,4,Amazing burgers with crispy fries on the side.,Mexican,2024-04-25
+e9472426-8c08-4be6-87cd-b114d6d15833,Harper Inc Steakhouse,Eric Baxter,1,The burger was dry and the fries were cold.,Italian,2025-02-24
+9e7ca7e9-e120-4c0c-87d3-af060090d9b8,Suarez-Sanchez Kitchen,Sara Figueroa,5,Loved the elegant desserts and fine wine selection.,French,2025-02-15
+6ff38e46-7adf-404a-9a9e-192e612605bd,"Davila, Conley and Jacobs Bistro",Jesse Brown MD,2,The pasta was overcooked and bland.,Italian,2024-09-27
+83d4fe7f-db66-4db6-93a8-dd69f9359292,Palmer-Robertson Kitchen,Jessica Liu,4,Amazing burgers with crispy fries on the side.,Japanese,2024-06-15
+94c15236-b657-457b-a546-3c5a844a5075,"Turner, Morgan and Ayers Diner",Debra Anderson,3,"Decent service, but I've had better meals elsewhere.",French,2024-10-21
+c20f419c-018b-43ac-971f-d9e230779803,Reynolds-Ellison Grill,Christian Schroeder,4,The pasta was perfectly cooked and full of flavor!,Mexican,2025-02-25
+a7e3ee81-78f2-4a80-8079-9e5ca1ba8cba,"Lawson, Baker and Thomas Kitchen",Mary Holt,3,"Average experience — not bad, not great.",Indian,2025-02-26
+3f3598d5-8516-4319-9f71-3d911269d894,Moore LLC Steakhouse,Kendra Hall,2,The pasta was overcooked and bland.,Italian,2025-01-03
+5d2bde00-dc5b-48d3-af55-799a51e02114,Curtis-Fox Diner,Joseph Smith,2,Tacos were soggy and lacked seasoning.,American,2024-10-21
+49f78e6f-cf00-4ee3-b67c-b030f0a0f280,Allen-Thompson Kitchen,Joseph Robles,5,Loved the elegant desserts and fine wine selection.,Japanese,2025-01-21
+344538c2-8ce2-4d5d-a0a6-a55bb828fe4e,"Martin, Crosby and Allen Kitchen",Timothy Richardson,5,The tacos were bursting with authentic taste.,Mexican,2024-09-20
+52df4688-bf90-4d44-8345-06d9588dcaa4,"Lara, Curtis and Howard Diner",Kendra Hall,1,Tacos were soggy and lacked seasoning.,Italian,2024-09-12
+b4f36be9-29a7-49c0-a2d9-7cd7f309e070,"Wilson, Sanchez and Barron Eatery",Sara Figueroa,1,The curry was too salty and overpowering.,Indian,2024-08-11
+eb6bf23b-1a21-454b-a9a4-e37ed1c84223,"Nash, Krause and Hardy Kitchen",Nicholas Diaz,1,The burger was dry and the fries were cold.,Italian,2024-11-14
+8b807f71-7d30-40d2-83a4-cf33e82854eb,"Pruitt, Lopez and Fisher Diner",Brett Fuller,2,The sushi tasted off and lacked freshness.,Japanese,2024-07-24
+caeaa5c2-d939-4bf0-a9cd-21e8c98b7d30,Miles and Sons Grill,Mikayla Keller,4,Amazing burgers with crispy fries on the side.,Italian,2024-04-12
+a2c27d3a-a5a3-4e9d-9e24-a610f45455d5,Rodriguez-Kent Eatery,Lisa White,1,Desserts were overpriced and underwhelming.,American,2024-04-09
+68a85f0a-9515-41f2-9ba2-f97aeaec9a6c,Petersen-Vincent Kitchen,Stacy Walker,3,"Average experience — not bad, not great.",Indian,2025-02-01
+11ddb750-8986-4288-bdfb-6b9b2a9b9022,"Smith, Stewart and Avila Grill",Kaitlyn Wells,4,Loved the elegant desserts and fine wine selection.,French,2025-01-09
+e4c196c3-a113-4480-8233-83955d982d81,Adams-Garcia Eatery,Nicholas Cain,1,The curry was too salty and overpowering.,American,2024-05-20
+1eb73272-9beb-470f-8ca2-cb35b1014eca,Little-Mcgee Steakhouse,Paul York,3,"Decent service, but I've had better meals elsewhere.",Italian,2024-09-16
+243f4f7a-d400-486f-9e33-45680d903b5d,James-Brooks Steakhouse,Edward Escobar,3,"A simple meal, met expectations but didn’t wow me.",Italian,2024-03-08
+80eae27a-dcba-4f5a-ba74-925037d947aa,Rodriguez Inc Steakhouse,Nicole Duran,3,"The food was okay, nothing too special.",Italian,2025-02-18
+dda9b7c3-59b8-4a87-9c47-25a778723761,Osborne Group Grill,Martha Carter,4,Exceptional sushi — fresh and beautifully presented.,Italian,2024-03-17
+929c6c07-9d0b-4a49-9342-d95962a3be29,Olson-Carrillo Steakhouse,James Saunders,5,Amazing burgers with crispy fries on the side.,French,2024-06-20
+a3cb2261-226e-460b-ac24-9ecee29f2f46,"Garcia, Shaffer and Walters Cafe",Lori Buchanan,4,The tacos were bursting with authentic taste.,Italian,2025-01-02
+b39385a6-a23d-4edf-8894-47f2b5dfbf23,"Anthony, Fitzpatrick and Ellis Diner",Monica Russell,4,Amazing burgers with crispy fries on the side.,French,2024-05-27
+e4e95f85-0d09-4370-8370-31373865ded3,Carroll Ltd Cafe,Joseph Smith,2,Desserts were overpriced and underwhelming.,American,2024-12-22
+badba069-9741-4d86-9e82-c897d993dff7,Oconnell LLC Diner,Mary Flores,4,Exceptional sushi — fresh and beautifully presented.,French,2024-08-05
+6b29f9f1-895b-4c45-ba17-719524ed8a3a,"Medina, Hoffman and Callahan Diner",Jessica Liu,5,The curry had the perfect balance of spices.,Indian,2024-11-11
+b215139e-c509-4bc5-95b3-dee00ec3f6b6,Bennett and Sons Eatery,James Saunders,1,Desserts were overpriced and underwhelming.,Japanese,2024-11-03
+e6f465d9-00ff-48e5-862a-e452f26696c0,"Cox, Reyes and Berg Bistro",Albert Villanueva,5,The pasta was perfectly cooked and full of flavor!,French,2024-03-05
+51690834-3ddf-4489-917c-caf47e826e74,"Ross, Preston and Short Grill",James Saunders,3,"Portions were fair, but the flavors didn’t stand out.",American,2024-04-26
+7942b574-0703-4978-834c-138bfb566397,Lutz-Monroe Bistro,Courtney Carey,5,The pasta was perfectly cooked and full of flavor!,Japanese,2025-01-23
+b6b24fe3-0777-43f7-a526-5bb2f2202b04,Juarez-Li Bistro,Donna Colon,4,Exceptional sushi — fresh and beautifully presented.,Italian,2025-02-17
+ec5a4229-d435-4e94-baef-3a3a957e3953,Fox-Stewart Eatery,John Richardson,2,Tacos were soggy and lacked seasoning.,Japanese,2024-09-27
+832ffc76-6857-4124-917b-cf7ac1ae86a6,"Strickland, Adams and Hernandez Bistro",Carl Smith,4,The tacos were bursting with authentic taste.,French,2024-12-03
+0fe7cf84-a401-4336-87ea-e6eb3bb117c3,Burton Group Cafe,Donna Colon,4,The curry had the perfect balance of spices.,American,2024-11-01
+b984303b-6ff4-43db-a82f-9f00457621da,"Hess, Morgan and Matthews Kitchen",Robert Holt,3,"Portions were fair, but the flavors didn’t stand out.",French,2024-09-11
+3e607608-accc-4c4b-b164-21cf24f54bd6,Mooney-Rodriguez Diner,Paula Jones,2,The curry was too salty and overpowering.,Italian,2024-12-04
+a1752940-7df6-4fcb-8d0f-87eaac05ba40,Yates Inc Eatery,Wesley Silva,3,"Decent service, but I've had better meals elsewhere.",Italian,2024-05-31
+4a24ae12-5d53-4271-aa78-dffb440efcd4,White-Austin Eatery,Matthew Beck,1,The curry was too salty and overpowering.,Mexican,2025-01-04
+4caf207a-a990-4c90-a8de-1989764bc817,Harrison Ltd Cafe,Yolanda Nelson,5,Loved the elegant desserts and fine wine selection.,Mexican,2024-05-08
+be07eb12-c483-4b28-87c2-fd88dd5a29f9,Brewer-Acevedo Eatery,John Richardson,2,The curry was too salty and overpowering.,Indian,2024-11-29
+a077cc45-46c4-4ea8-9786-274eaffafb4f,Herrera Inc Bistro,Timothy Reynolds,3,"Portions were fair, but the flavors didn’t stand out.",Japanese,2024-06-29
+cce881dd-312e-4519-9bd7-a6d192d82292,Williams-Hughes Bistro,Richard Moore,4,The pasta was perfectly cooked and full of flavor!,Mexican,2024-09-18
+86da2870-4efb-49a8-9717-79aa48e4698b,Hanna-Wallace Bistro,Sandra Banks,3,"The food was okay, nothing too special.",Indian,2024-11-22
+50d1764c-8baa-430e-83e4-22552e923179,Harrison Ltd Cafe,Brandon Lang,5,Amazing burgers with crispy fries on the side.,Japanese,2024-06-16
+bd489258-2570-4add-a576-c5f336894e1a,"Blanchard, Harris and Fox Eatery",Katherine Carey,4,The tacos were bursting with authentic taste.,Indian,2024-09-14
+74102f2b-f217-4753-8df0-8ed4fc12ce26,"Smith, Green and George Eatery",Laura Howard,5,Amazing burgers with crispy fries on the side.,Indian,2024-03-31
+0624f5d3-af32-4100-8915-fde16ff01cb0,"Harris, Harper and Stewart Diner",James Saunders,4,The tacos were bursting with authentic taste.,Mexican,2024-12-13
+11d1e860-77cc-4f3b-9f45-0c4fad672620,Russell PLC Eatery,Hannah Miller DDS,2,The sushi tasted off and lacked freshness.,Japanese,2024-05-01
+0043fea9-d150-48e5-ae2a-4611369374ec,Bishop Group Steakhouse,Joseph Smith,2,Tacos were soggy and lacked seasoning.,Japanese,2025-01-04
+3893d530-187c-45ef-ae29-30f0f4d1e7de,"Riley, Garcia and Terry Diner",Linda Stafford,5,The pasta was perfectly cooked and full of flavor!,Italian,2024-09-01
+c9f66c90-b6e2-481f-aeb5-cd00e27aec25,Burton Inc Diner,Justin Sellers,1,Desserts were overpriced and underwhelming.,Indian,2024-08-10
+810909df-5bb2-4c27-8bcd-ef25457e583e,Preston-Welch Eatery,Megan Lewis,5,Exceptional sushi — fresh and beautifully presented.,American,2025-02-17
+8ec1727f-770e-4e39-97a0-0fc9dca09e42,"Harding, Villa and Davis Diner",Brandon Morris,4,Exceptional sushi — fresh and beautifully presented.,American,2024-09-07
+0ba2d701-a716-46da-9286-00fb941860ad,Cowan-Sanchez Grill,Faith Peck,4,The pasta was perfectly cooked and full of flavor!,Mexican,2025-01-09
+464a4353-9d4a-4d43-825c-17429d32d001,"Cox, Reyes and Berg Bistro",Zoe Nelson,2,Desserts were overpriced and underwhelming.,Japanese,2024-07-02
+85d85f15-bba3-452a-aa92-a3fcfe6faf3b,"Kelly, Taylor and Morales Grill",Rodney Miller,5,The tacos were bursting with authentic taste.,Japanese,2024-09-09
+eeb86d88-c208-4703-b777-6b4c5e3ae78f,"Walker, Davenport and Stevens Steakhouse",Edward Escobar,2,The sushi tasted off and lacked freshness.,Japanese,2024-06-23
+6f46ae80-e626-40ba-b200-d07f01e3f738,Smith-Brown Bistro,Mrs. Tiffany Ray MD,5,The tacos were bursting with authentic taste.,French,2024-05-20
+0f594661-9af3-496d-ada6-b1d41f67017c,Snyder-Hernandez Cafe,Robert Holt,4,Loved the elegant desserts and fine wine selection.,Indian,2024-05-21
+86901e2f-edf1-4a9d-9f23-7dc3f95217f3,"Ford, Martin and Delgado Bistro",Sarah Murphy,2,Tacos were soggy and lacked seasoning.,Indian,2024-06-10
+ad602612-89f0-47c3-a2d3-79d00c6c0387,"Contreras, Pratt and Perry Diner",Holly Guerra,3,"Portions were fair, but the flavors didn’t stand out.",Japanese,2024-10-21
+2a09b6d5-c5a7-4640-b0bb-182b52346b67,Harris-Quinn Eatery,Wendy Price,2,Tacos were soggy and lacked seasoning.,American,2024-03-07
+a8ed7f1a-e23d-4e4c-9289-b78208c01e03,Ramirez-Daniel Kitchen,Mikayla Keller,1,Desserts were overpriced and underwhelming.,Japanese,2024-09-12
+a4618b1c-b69f-4453-88d0-0867f55f2244,"Gamble, Stephens and Flores Eatery",Joseph Smith,1,Tacos were soggy and lacked seasoning.,American,2024-06-23
+98ea1a53-b2aa-449a-8ee4-1e7886212532,Rodriguez-White Kitchen,Cody Jordan,4,The curry had the perfect balance of spices.,Indian,2024-11-21
+fbfeadcc-5548-412b-9936-c3b72e412ea7,Brooks-Fritz Eatery,Phillip Brown,3,"Average experience — not bad, not great.",Japanese,2025-01-17
+354b084a-3bac-4753-81d1-dc4493250e86,Nelson and Sons Steakhouse,Wendy Price,1,The burger was dry and the fries were cold.,Italian,2025-01-01
+7b947dc3-f6a3-4154-83ce-f215edd5642d,Howell Inc Cafe,Kimberly Lawrence,3,"Average experience — not bad, not great.",Japanese,2024-07-05
+87875dff-99aa-4db2-b449-cd114f83b7d1,Harrison Ltd Cafe,Laura Howard,5,Amazing burgers with crispy fries on the side.,Indian,2024-08-12
+05e67957-8930-4115-80e4-723effa2db77,"Glenn, Small and Miller Steakhouse",Sandra Banks,4,Exceptional sushi — fresh and beautifully presented.,American,2024-08-12
+c46e49b6-a20a-4efc-823f-d374376ffe4a,Lewis-Logan Steakhouse,David Francis,5,Amazing burgers with crispy fries on the side.,Japanese,2024-09-15
+1cbfb3de-762a-4509-b26a-84a1c9abba8a,"Cox, Reyes and Berg Bistro",Gina Compton,3,"Portions were fair, but the flavors didn’t stand out.",Japanese,2024-11-01
+188371cb-c1bb-46ca-8acf-c89884ff655c,Scott-Ford Bistro,Timothy Reynolds,2,Tacos were soggy and lacked seasoning.,Indian,2024-10-11
+a32350d0-894b-4d39-b4df-09be0d753ed0,Petersen-Vincent Kitchen,Julian Cisneros,3,"The food was okay, nothing too special.",American,2024-07-12
+9ad73887-31dc-4d76-8a7d-42cf7b744f1c,Landry Inc Kitchen,Aaron Carter,5,The curry had the perfect balance of spices.,Japanese,2024-10-24
+842b707e-bc49-4409-be5c-c7b202f19ade,Massey Group Steakhouse,Elaine Shields,2,The pasta was overcooked and bland.,Italian,2024-12-15
+135792c7-4ae1-494c-baab-61176f5b9c0c,Ellis PLC Eatery,Lisa White,1,The pasta was overcooked and bland.,Indian,2025-01-14
+c20097a3-d54d-4a02-b17d-a860a3e38fd0,"Nguyen, Dyer and Rios Kitchen",Mary Holt,1,The burger was dry and the fries were cold.,Mexican,2024-12-21
+6df8dd58-825d-4d38-9e89-cc3cb49cd139,Cowan-Sanchez Grill,Tracy Ayers,4,The tacos were bursting with authentic taste.,Japanese,2024-10-17
+c4064813-14ae-40eb-9845-13f184dfa6cc,Hood Inc Eatery,Jason Johnson,3,"Portions were fair, but the flavors didn’t stand out.",Mexican,2024-08-30
+6e00ec08-8105-4d4e-9259-94a9b9054add,"Figueroa, Walker and Sims Diner",Austin Gonzales,4,The tacos were bursting with authentic taste.,Indian,2024-08-31
+8a874cb0-97a0-466d-aafa-9d8a4073ed8d,Mcneil Ltd Grill,Nathan Sims,2,The sushi tasted off and lacked freshness.,Mexican,2025-02-23
+3924665a-4f78-48ac-a5b5-d1260b8e4290,Lopez-Rice Eatery,Tiffany Webster,5,Exceptional sushi — fresh and beautifully presented.,Indian,2024-03-21
+108df6ee-470b-4bb8-8456-1ce5dd1fca85,Cameron and Sons Grill,Diane Floyd,4,The pasta was perfectly cooked and full of flavor!,Mexican,2024-09-29
+283a1d53-ec53-4cf4-a9d4-8b5798581f87,Sullivan-Brown Cafe,Robin Miller,1,Tacos were soggy and lacked seasoning.,American,2024-11-29
+5a4e62f4-eb88-4a9d-a43b-4af86b3ec283,"Mora, Carroll and Ramirez Bistro",Justin Sellers,4,Exceptional sushi — fresh and beautifully presented.,Japanese,2024-04-29
+3a4edaef-ebbc-472f-ac73-59dbf54d35ca,Jones Inc Grill,Mrs. Tiffany Ray MD,1,The pasta was overcooked and bland.,Mexican,2024-10-06
+853259a9-e1f9-4646-a549-3da4eaa6f595,"Wilson, Sanchez and Barron Eatery",Jason Simon,5,Loved the elegant desserts and fine wine selection.,Japanese,2024-09-19
+48719854-69e7-4acc-a2ca-7ab95fe5c1d6,West PLC Grill,Jeremy Alvarez,3,"Portions were fair, but the flavors didn’t stand out.",American,2024-07-21
+788bea08-94fa-40a5-9243-8423c98960a0,"Wolf, Phillips and Pruitt Cafe",Mikayla Keller,1,The curry was too salty and overpowering.,Italian,2024-11-15
+076ee9b2-4c04-48e6-a6eb-0f174de5e563,Matthews Ltd Steakhouse,Hannah Miller DDS,2,The pasta was overcooked and bland.,Indian,2024-07-05
+34db4aea-15c5-4531-b6ff-0e05fe429c49,Moore-Hickman Grill,Mrs. Tiffany Ray MD,3,"Decent service, but I've had better meals elsewhere.",American,2024-03-28
+1b72518c-fb34-4c7f-b5a0-93720768ff75,Murphy-Phillips Grill,Cody Jordan,4,Loved the elegant desserts and fine wine selection.,American,2024-06-11
+efedd820-dac3-487d-bc55-fcd00bde7042,Elliott LLC Eatery,Gerald Jones,4,Loved the elegant desserts and fine wine selection.,Indian,2024-12-31
+8e8a16f5-3d15-489d-93e0-1f50a10aa6dd,"Nichols, Wright and Greene Grill",Nicole Ramos,2,The pasta was overcooked and bland.,Mexican,2024-09-03
+a5885490-6d1c-453e-87b6-f030ffade136,Johnston LLC Kitchen,Eric Baxter,5,Loved the elegant desserts and fine wine selection.,American,2025-02-15
+03082652-e73f-4236-b311-4a190c633708,Massey Group Steakhouse,Christopher Graham,2,The sushi tasted off and lacked freshness.,Italian,2024-04-26
+38027044-1dab-4be8-a83e-54e4b03f67dc,Parker Group Steakhouse,Jason Johnson,5,Amazing burgers with crispy fries on the side.,American,2024-05-01
+0deb0e64-abc6-40d8-986f-c40b101af0e7,"Carroll, Thompson and Smith Bistro",Michael Perez,3,"Average experience — not bad, not great.",Indian,2024-06-17
+9f5ea360-273e-4ad9-a071-826516675e7c,"Norton, Medina and Craig Grill",Kristen Smith,1,The burger was dry and the fries were cold.,Japanese,2024-09-08
+56bc404c-b23b-4afa-85b3-d897f7a2564e,Smith-Cobb Bistro,Jeffrey Morton,1,The burger was dry and the fries were cold.,Mexican,2024-10-03
+d82730b1-7c5e-49d0-be2f-670c8674410b,White-Austin Eatery,Rebecca Hamilton,1,The burger was dry and the fries were cold.,Japanese,2025-01-03
+3bde7696-2f74-4ab0-abf2-a29efe6d65a7,"Thompson, Hayden and Reynolds Steakhouse",Casey Flores,4,Loved the elegant desserts and fine wine selection.,Mexican,2024-06-29
+17b1f0f0-54f4-4c12-b1fd-a98ae5051b4d,Mack-Dillon Steakhouse,Stacy Martin,4,Amazing burgers with crispy fries on the side.,French,2024-11-06
+9dcf0b5e-784b-4cda-90ea-e9c84bb8d1f1,Curtis-Fox Diner,Jeffrey Carter,3,"Average experience — not bad, not great.",American,2025-01-24
+e9755b59-991d-4d07-a5bd-96eba188b78f,Gibbs-Wolf Steakhouse,Joshua Riley,3,"Average experience — not bad, not great.",French,2024-10-16
+3f14c84a-ab3b-44cd-89b6-16b4aa753315,Liu LLC Kitchen,Christopher Wells,1,The sushi tasted off and lacked freshness.,Indian,2024-05-07
+3d8b241d-926d-487f-b4f4-9b073b49db9c,Williams Group Eatery,Brian Marshall,5,The tacos were bursting with authentic taste.,Italian,2024-11-17
+0143b64d-f5ed-4e53-b1e3-1f1188196c5e,Cardenas-Martin Bistro,Richard Hayes,5,The tacos were bursting with authentic taste.,French,2025-01-13
+6fd1bc3a-8315-4827-b3ef-b5de5b0e6211,Gray-Hunter Grill,Thomas Hampton,4,Loved the elegant desserts and fine wine selection.,Japanese,2024-07-02
+d00cff37-1e81-4c16-a323-cca5100625d2,"Gallegos, Jennings and Robertson Diner",Kimberly Lawrence,1,Tacos were soggy and lacked seasoning.,American,2024-03-14
+e95270aa-ee45-49c5-ae84-2c4fa3f620da,"Riddle, Estes and Brown Cafe",Nicole Guerra,4,Amazing burgers with crispy fries on the side.,French,2024-05-06
+8fc2ad04-7a21-40b1-b047-7b2bb7f0a870,"Vasquez, Lee and Bartlett Kitchen",Alec Simmons,1,The burger was dry and the fries were cold.,Italian,2024-11-19
+30445bb2-90bd-4512-a9fa-5c9280a160dd,Moss-Kane Grill,Diane Fitzgerald,5,Loved the elegant desserts and fine wine selection.,American,2024-05-18
+aa77993b-1575-4ce0-8d11-967540f09a80,Howell Inc Cafe,Sara Figueroa,3,"Average experience — not bad, not great.",Mexican,2024-08-23
+e510e263-25c5-4a69-a142-167130cbd691,Taylor-Anthony Diner,Evelyn Gilbert,5,Amazing burgers with crispy fries on the side.,American,2024-05-22
+ad5da96d-fda9-4e04-8634-959f88b155d5,Clark and Sons Grill,Sarah Hopkins,3,"Decent service, but I've had better meals elsewhere.",Mexican,2025-02-07
+0822b99d-0e23-48ac-b592-77d1eefecd22,Mack-Dillon Steakhouse,Nicholas Becker,5,Loved the elegant desserts and fine wine selection.,Japanese,2024-06-23
+8a9bfeca-6699-42a5-ad50-56cb36acbdd2,"Manning, Perez and Parker Grill",Cody Nichols,5,The pasta was perfectly cooked and full of flavor!,French,2024-03-27
+47ab5c7b-828c-468a-b779-60629cb14c1c,"Winters, Jones and Dennis Grill",Christina Palmer,3,"A simple meal, met expectations but didn’t wow me.",Mexican,2024-11-09
+ab1cc639-f7b6-4637-a706-1d35453225c3,"Hernandez, Parker and Ward Diner",Monica Russell,1,Desserts were overpriced and underwhelming.,Japanese,2024-09-23
+88b4e314-6687-40dd-833e-84e2f5058b77,Mack-Willis Steakhouse,Diane Fitzgerald,5,The tacos were bursting with authentic taste.,American,2024-09-12
+e664d06a-143c-4cb6-97d0-46d9d8fe8014,Mcfarland-Vasquez Grill,Robert Norman,5,The curry had the perfect balance of spices.,American,2024-04-03
+76d0ff29-a4fb-4abe-b900-f8a5dd9d0563,"Torres, Huffman and Berry Diner",Debra Miller,4,The tacos were bursting with authentic taste.,Italian,2024-05-04
+0397bad3-28ac-4453-8c08-ee318b1e146c,Moore-Rodriguez Bistro,Jeremy Cisneros,1,The sushi tasted off and lacked freshness.,Italian,2025-02-26
+d71102d4-605e-4fde-bbc6-0dc4c73b3041,Martinez and Sons Kitchen,Joseph Decker,1,The curry was too salty and overpowering.,Italian,2024-10-12
+3c75795f-27fd-4c8b-b0c0-6fafa0ca6dcd,"Johnson, Martin and Clark Diner",Katherine Carey,4,Loved the elegant desserts and fine wine selection.,Japanese,2024-10-04
+e20193b0-a83e-43e3-841b-195de63a5b37,Morrison and Sons Kitchen,Martha Carter,5,Exceptional sushi — fresh and beautifully presented.,Mexican,2024-05-10
+13e91009-676a-4f74-9c81-cd6360cf3876,Dudley LLC Eatery,David Reed,1,The burger was dry and the fries were cold.,American,2024-04-16
+30e254f5-bb48-413e-8b53-7fa01025f510,Martinez-Walker Grill,Brandon Lang,1,Desserts were overpriced and underwhelming.,Indian,2024-07-21
+a63c901b-aac6-43be-ab8c-6133d575e835,Moore-Hickman Grill,Nicholas Becker,2,The burger was dry and the fries were cold.,Mexican,2024-07-11
+54117639-d778-4f50-b8c2-fb16d8f3ae08,Castillo-Davis Kitchen,Diana Todd,3,"The food was okay, nothing too special.",Indian,2024-09-04
+f384a828-f042-4b8f-b990-e2f5593bd4cf,"Perez, Middleton and Baker Cafe",Monica Russell,2,The burger was dry and the fries were cold.,Indian,2024-05-14
+4b075fe5-43e6-46ce-a2dc-a523cacb712e,Adams-Garcia Eatery,Brittany Atkinson,2,Desserts were overpriced and underwhelming.,American,2024-06-02
+89a92854-9c2f-48b2-a580-5a53807c363c,"Young, Rangel and Gomez Diner",Connie Cox,3,"The food was okay, nothing too special.",Japanese,2024-10-26
+48cc9925-1923-447c-afaa-5624847aa4f0,Smith-Crawford Kitchen,Lori Buchanan,1,Tacos were soggy and lacked seasoning.,Indian,2024-08-12
+78e20726-0939-4c71-bd08-e9ce78773777,Massey Group Steakhouse,Mary Flores,3,"Portions were fair, but the flavors didn’t stand out.",Mexican,2024-12-29
+84b304ad-a92f-49d7-af2e-492f80438ae5,"Moreno, Smith and Benton Grill",James Saunders,1,Tacos were soggy and lacked seasoning.,Indian,2024-12-21
+ee7d0b84-57c6-4a58-9642-d95d74e8a673,Cameron and Sons Grill,Jesse Brown MD,3,"Portions were fair, but the flavors didn’t stand out.",Japanese,2024-06-27
+46c81644-2074-470b-b3b8-195008f7a835,Boyd PLC Kitchen,Joseph Howard,3,"A simple meal, met expectations but didn’t wow me.",Mexican,2024-08-31
+6347f324-fd59-4bc0-97fb-3f8d911547b7,"Carney, Allen and Rios Eatery",Christina Palmer,2,The pasta was overcooked and bland.,Italian,2024-10-18
+2ba99a68-e2fe-4f83-807e-aee7b5a1808c,Jones-Barnes Grill,Michelle Rich,5,Exceptional sushi — fresh and beautifully presented.,Japanese,2024-04-04
+7d542c56-66dc-4a36-a19a-ea6243588ca9,Mooney-Rodriguez Diner,Mario Byrd,1,Desserts were overpriced and underwhelming.,Mexican,2024-06-17
+7b407a49-fb40-4e8e-bce2-a85bad00be35,"Hawkins, Cross and Salazar Eatery",Joshua Molina,1,The sushi tasted off and lacked freshness.,French,2024-05-10
+db661be2-acbd-4bea-a158-4f60918e4415,Lucas-Mitchell Cafe,Linda Fox,2,Desserts were overpriced and underwhelming.,Mexican,2024-03-16
+4190b8ca-2230-42d8-bf62-011ea2267785,"Alexander, Mccarty and Graham Diner",Richard Moore,1,The burger was dry and the fries were cold.,French,2024-03-22
+dcf578a0-0536-487b-bcf5-ffe16db8a495,"Martin, Crosby and Allen Kitchen",Jodi Stanton,1,The sushi tasted off and lacked freshness.,Italian,2024-11-10
+b706c9c9-e6f4-4ea1-a449-ae11d6f2794e,Brooks-Duncan Grill,Jeremy Alvarez,4,Loved the elegant desserts and fine wine selection.,American,2024-04-01
+56832b37-9151-4556-878b-f07188574f21,Kim LLC Eatery,Thomas Hampton,3,"Portions were fair, but the flavors didn’t stand out.",Indian,2024-04-19
+9dde221d-4ce3-43ac-94b7-b1e118c02252,Anderson and Sons Grill,Benjamin Miller,5,Exceptional sushi — fresh and beautifully presented.,Mexican,2024-06-29
+2111b31a-b15a-45b5-8c33-d0d8f66dfadb,"Harding, Villa and Davis Diner",Veronica Whitaker,2,Desserts were overpriced and underwhelming.,French,2024-03-10
+fe2a4c49-d6a8-45a2-9d59-070b772b8a47,Russell-Lewis Kitchen,Brian Marshall,3,"Portions were fair, but the flavors didn’t stand out.",American,2024-03-29
+be66fe2f-6946-46b4-9a4f-b20f99e2e2b7,"Cox, Reyes and Berg Bistro",Samantha Bird,3,"Portions were fair, but the flavors didn’t stand out.",Italian,2024-12-26
+02b58641-8f65-48ae-8b5d-bff2ed492920,Robinson Ltd Bistro,Mrs. Tiffany Ray MD,3,"A simple meal, met expectations but didn’t wow me.",French,2024-04-26
+d01c0428-fa1f-459c-966d-b56fb7a5a71f,"Little, Ramirez and Kirk Steakhouse",Amanda Smith,3,"Portions were fair, but the flavors didn’t stand out.",Italian,2024-11-24
+aa5639b1-7b68-495c-a778-fd833f51431c,"Little, Vargas and Morgan Cafe",Paul Parker,5,The curry had the perfect balance of spices.,Indian,2024-04-22
+6fdc2c21-f7e8-430c-a461-388532b1ba7c,Taylor-Anthony Diner,Aaron Wilson,5,The curry had the perfect balance of spices.,American,2024-04-13
+d53d7694-28b9-495c-868b-9664727a1600,Smith-Cobb Bistro,Daniel Cox,3,"The food was okay, nothing too special.",Mexican,2024-12-10
+0803a482-a6ce-42da-904f-94e78b251262,"Garcia, Little and Greene Kitchen",Nathan Sims,1,The curry was too salty and overpowering.,Japanese,2024-10-19
+3c789d41-faae-4315-a330-fd9678e65ca5,Rogers PLC Eatery,Courtney Carey,4,Amazing burgers with crispy fries on the side.,American,2024-09-09
+32f437fc-c88e-4a22-9120-67ef69fe178e,Allen PLC Diner,Nicholas Cain,5,Amazing burgers with crispy fries on the side.,Mexican,2024-08-20
+4f8a75df-5c38-40b4-bd84-e8c95de92d3c,"Rich, Dixon and Browning Diner",Aaron Carter,4,The tacos were bursting with authentic taste.,American,2024-10-20
+f5a47303-7615-4865-8f4c-4cb8a71e44d0,Gomez-Harris Diner,Christian Schroeder,3,"Average experience — not bad, not great.",French,2024-06-25
+84f6c926-96f1-4390-b3aa-06993ad8326a,Osborne Group Grill,Christopher Flores,3,"A simple meal, met expectations but didn’t wow me.",French,2024-12-16
+8563ffae-02eb-49f8-9296-a56723f6eb59,Fisher-Mercer Kitchen,Martha Powell,3,"The food was okay, nothing too special.",Mexican,2024-04-06
+68f9cf81-ef91-41f2-9a7c-707785a94d5f,"Peters, Marshall and Garrett Diner",Eric Lloyd,3,"Decent service, but I've had better meals elsewhere.",American,2024-08-24
+b07a7d3d-cd66-498c-9f9b-d2a023567f79,"Pena, Powell and Johnson Diner",Jason Simon,3,"A simple meal, met expectations but didn’t wow me.",Italian,2024-09-10
+d9ac9ec4-2a93-4f26-904f-9aac747cb886,"Nelson, Le and Osborn Kitchen",Vanessa Meyers,4,Exceptional sushi — fresh and beautifully presented.,American,2024-12-26
+c33d4111-a912-451e-8377-ef1bf7b81013,Harris-Harris Bistro,Paul Parker,1,The burger was dry and the fries were cold.,French,2024-04-05
+841a1798-e800-41f3-b2a1-f80e3b38612c,Hernandez-Blake Eatery,Zachary Lopez,5,The tacos were bursting with authentic taste.,French,2024-11-30
+e13eebbd-b536-415b-8dca-b230e9e23e4b,Benson-Davis Kitchen,Mary Ellis,1,The sushi tasted off and lacked freshness.,Mexican,2024-10-11
+7f7da3c5-a523-423b-8840-08a9731aa710,Benson-Davis Kitchen,David Kaiser,2,The curry was too salty and overpowering.,Japanese,2024-03-05
+e399eaf6-6c14-4ded-8e72-7565076cb871,Watts-Lucas Bistro,Joseph Smith,3,"A simple meal, met expectations but didn’t wow me.",Japanese,2024-06-10
+83f71e5c-7e4f-4f8f-ae5c-243f6973b108,"Glenn, Small and Miller Steakhouse",Brandon Lang,3,"A simple meal, met expectations but didn’t wow me.",Mexican,2024-09-25
+4279ea81-ef97-41a9-8c43-0a72b78c112a,"Nguyen, Dyer and Rios Kitchen",Stacy Walker,4,Loved the elegant desserts and fine wine selection.,Italian,2024-08-24
+ab31a370-0637-4bd3-aa85-204faa10b857,Williams-Jackson Grill,Jeffrey Carter,2,The pasta was overcooked and bland.,Indian,2024-10-13
+e6015667-74de-4628-9a3f-fb0d29dc5f3d,Mcfarland-Vasquez Grill,Richard Hayes,1,The curry was too salty and overpowering.,Mexican,2024-03-31
+bb5e2b4b-bc6c-4a23-b387-86921979fb4f,Hood Inc Eatery,Briana Harris,3,"A simple meal, met expectations but didn’t wow me.",Indian,2024-10-09
+643ee81a-750f-4cf5-a111-1f219fb765b4,Hood Inc Eatery,Linda Stafford,2,The sushi tasted off and lacked freshness.,American,2025-01-01
+c08f7caf-7cb3-44e7-a771-a1b130e00fb4,Nguyen-Wilson Cafe,Jennifer Thomas,1,Tacos were soggy and lacked seasoning.,Italian,2024-04-19
+435e7b03-8902-414f-b1f2-ccddbe24d6fb,"Rodriguez, Paul and Obrien Grill",Mikayla Keller,5,Amazing burgers with crispy fries on the side.,American,2024-08-05
+61a79c9d-4d6b-42d9-931f-ab1983cb1f88,Hickman-Berg Cafe,Nathan Russell,3,"Decent service, but I've had better meals elsewhere.",French,2024-11-15
+28c80ae5-de7f-4512-988a-8e366124b28b,"Young, Rangel and Gomez Diner",Brian Marshall,3,"Decent service, but I've had better meals elsewhere.",American,2024-06-14
+4a4b6cf4-e4bb-4841-a5c3-b5b10f04b99b,"Briggs, Campbell and Hickman Cafe",Daniel Baker,2,The curry was too salty and overpowering.,Italian,2024-06-14
+b2432d30-17f5-421d-a561-d20ce1ae9c54,Mack-Dillon Steakhouse,Casey Flores,3,"Decent service, but I've had better meals elsewhere.",French,2024-10-09
+29f2098a-5df5-4420-b929-2496421f5566,"Vasquez, Chavez and Perry Eatery",Michelle Moore,2,The sushi tasted off and lacked freshness.,Indian,2024-06-01
+56be6828-ec30-43ca-90a7-8ac4d420b4ee,Yates Inc Eatery,Ryan Taylor,5,The tacos were bursting with authentic taste.,French,2024-05-27
+c0b61e79-5d17-4e38-96a7-500a7ddfd060,Berg Inc Grill,Sandra Banks,3,"The food was okay, nothing too special.",Japanese,2024-12-19
+72d0450d-b257-408f-91c5-aa1c456a2f23,Cardenas-Martin Bistro,Victoria Smith,4,The pasta was perfectly cooked and full of flavor!,Japanese,2024-12-26
+2991aaca-fcf8-4c4b-a43a-a9545ad85827,"Garcia, Foster and Cox Eatery",Shaun Cherry,4,The pasta was perfectly cooked and full of flavor!,Mexican,2024-03-17
+7ebd1295-884f-404c-ad93-736de4bf1377,Tate-Williams Diner,Debra Anderson,4,The curry had the perfect balance of spices.,Mexican,2025-02-28
+2f16de76-5131-4983-8efb-36443a5899db,Rogers PLC Eatery,Tracy Ayers,5,Amazing burgers with crispy fries on the side.,American,2024-08-08
+17c0d1f6-f060-4e28-b23d-fabd0030db73,Brown-George Kitchen,Thomas Wall,1,The curry was too salty and overpowering.,Mexican,2024-05-10
+c8517c91-0e22-469d-93db-10accee98566,"Suarez, Morrow and Bowers Grill",Nicholas Cain,2,The pasta was overcooked and bland.,Japanese,2024-12-14
+f850fba3-7801-4e3e-804c-bfbaec1f1d16,Estrada Ltd Diner,Timothy Reynolds,4,The curry had the perfect balance of spices.,Italian,2024-08-24
+585b0623-7ae1-436e-adc4-6f3f447e9289,"Ford, Martin and Delgado Bistro",Timothy Reynolds,2,The burger was dry and the fries were cold.,Italian,2024-10-24
+04a57227-8396-44e1-a876-e32526b16ac1,"Gibson, Munoz and Leach Bistro",Sarah Hopkins,5,The tacos were bursting with authentic taste.,American,2024-08-09
+8d588fb0-65a4-4b11-9f18-0eb3994779eb,Torres LLC Bistro,Robin Miller,1,Tacos were soggy and lacked seasoning.,Indian,2024-04-17
+e928b336-837c-4f70-8367-ffd3534f5cb0,Duarte LLC Steakhouse,Dan Ho,4,The tacos were bursting with authentic taste.,American,2024-10-06
+82d43aff-5a9a-4ba9-b792-b990fe83bc3a,Benson-Davis Kitchen,Pamela Martinez,4,Loved the elegant desserts and fine wine selection.,American,2024-05-08
+852459e5-3760-40d3-b5c8-07de97a0e161,"Ho, Nelson and Cox Grill",Anthony Cook,1,The pasta was overcooked and bland.,Mexican,2025-01-26
+4630540c-b6ab-4320-9921-8c9d0c0e2a64,"Hamilton, Combs and Saunders Kitchen",Victoria Smith,3,"A simple meal, met expectations but didn’t wow me.",Indian,2025-01-10
+6dd92cec-d598-4f09-bbfe-ef8d755c2d6f,Mcfarland-Vasquez Grill,Logan Wells,5,The curry had the perfect balance of spices.,Mexican,2024-05-22
+440cc60a-9cd0-4bed-a40c-b43c05d0df0e,Gray-Hunter Grill,Aaron Wilson,3,"Portions were fair, but the flavors didn’t stand out.",Indian,2024-04-03
+a3e830d3-cda1-4c2a-9e17-271508cc759a,Benson-Davis Kitchen,Ryan Taylor,2,The burger was dry and the fries were cold.,Indian,2025-01-18
+50ff1869-0f44-45d2-865e-2369ca503942,Estrada Ltd Diner,Anthony Haley,5,The pasta was perfectly cooked and full of flavor!,French,2024-04-23
+1eb6b250-b658-4d71-bd6a-acb1c8eccbd2,Juarez-Li Bistro,Lynn Smith,5,Exceptional sushi — fresh and beautifully presented.,French,2024-07-14
+8ccfe233-2377-46f9-8e61-1d8e549b13a9,Williamson Group Cafe,Veronica Whitaker,4,Exceptional sushi — fresh and beautifully presented.,Japanese,2024-12-13
+0f6034af-9172-446e-8a03-a4e930f69304,"Young, Buck and Moore Steakhouse",Amber Holden,4,Amazing burgers with crispy fries on the side.,Mexican,2024-12-04
+3d701520-353e-4617-bf41-6d9c60054f05,"Macias, Snyder and Moore Bistro",Brian Marshall,4,The pasta was perfectly cooked and full of flavor!,Mexican,2024-08-24
+73481c1c-2ecc-457c-b4dc-330238c01dae,Lopez-Rice Eatery,Brian Marshall,2,The burger was dry and the fries were cold.,Mexican,2024-04-01
+66e06833-f1aa-432e-9c75-093fde7b9593,Kim-Ford Grill,Christopher Wells,2,The curry was too salty and overpowering.,Indian,2024-11-24
+03415301-a809-4c1a-888d-a67e3d2c5ed4,Mendoza-Green Steakhouse,Daniel Baker,5,The tacos were bursting with authentic taste.,Indian,2024-06-27
+ce9758e3-9e8b-45e9-8b41-f395e27fdebf,"Nelson, Le and Osborn Kitchen",Jeffrey Morton,4,The curry had the perfect balance of spices.,Japanese,2024-06-12
+dcd21cc2-d334-4fc8-9686-fa0058757968,"Pena, Powell and Johnson Diner",Emily Thomas,3,"A simple meal, met expectations but didn’t wow me.",American,2024-03-19
+21743836-f6c7-4c37-97f6-894f0456b789,Chase-Diaz Bistro,Daniel Baker,1,The pasta was overcooked and bland.,French,2024-06-03
+8aae9800-dad2-48ff-b701-0e2ba4b27bac,Salazar Inc Bistro,Gregory Ramirez,1,The burger was dry and the fries were cold.,Japanese,2024-06-06
+9641b412-1af0-4bd2-8a21-aae81481e0ce,Robinson-Franklin Diner,Casey Flores,2,Desserts were overpriced and underwhelming.,American,2025-03-01
+843e5e3e-1656-4eb0-9e2a-ab2a6dbad6b2,"Nelson, Le and Osborn Kitchen",Kevin Kim,1,The burger was dry and the fries were cold.,French,2024-05-22
+35265747-bd85-4e22-a9a9-002bf2c47856,"Villegas, Smith and Bailey Grill",Tiffany Webster,4,Loved the elegant desserts and fine wine selection.,American,2024-12-10
+b469dec8-9e79-4c7e-a0b3-57e6430b0e2c,Parker PLC Kitchen,Gregory Ramirez,2,The curry was too salty and overpowering.,Italian,2025-01-28
+108a5fc4-deed-4f2c-a894-4fe67315755f,Hutchinson Group Cafe,Carl Smith,2,The pasta was overcooked and bland.,American,2024-08-30
+1bdf604e-39a6-49fc-8a0c-fb79bff9f20b,Freeman-Martinez Steakhouse,Zoe Nelson,3,"Average experience — not bad, not great.",American,2024-03-08
+ecf95759-e032-4381-8b86-ceb1a63e064f,Nelson and Sons Steakhouse,Sharon Little,1,The burger was dry and the fries were cold.,French,2025-02-14
+a06dfb19-77b0-4413-bf0e-75f0ec805d42,"Vasquez, Chavez and Perry Eatery",Jacob Schultz,2,The pasta was overcooked and bland.,Mexican,2024-06-18
+5bc1617b-08e4-4f7d-9acd-f696bfffc7fb,Benson-Davis Kitchen,Stacy Walker,5,The tacos were bursting with authentic taste.,American,2024-05-10
+71996eb1-5c6c-4bac-9b64-15bd3f7b180a,Wilson-Wood Kitchen,Cody Jordan,5,Exceptional sushi — fresh and beautifully presented.,American,2024-08-15
+4183e318-a92a-480e-95df-571da526d773,Perry Inc Diner,Nathan Sims,4,The curry had the perfect balance of spices.,French,2024-12-18
+5c213434-bcb4-4626-b67f-304bf5e40ad7,Hall-Franklin Kitchen,Joseph Sullivan,2,Tacos were soggy and lacked seasoning.,Mexican,2025-01-10
+99328f1d-5f54-49bb-81e6-4cae523d521b,"Galvan, Watson and Henry Diner",Alexis Long,3,"Portions were fair, but the flavors didn’t stand out.",Italian,2024-05-01
+5e17a5d6-8312-4cca-a130-1ede6dd6ffa8,Williams Group Steakhouse,Kevin Alvarez,2,Desserts were overpriced and underwhelming.,French,2024-03-03
+8adb5e4f-be2d-46bc-8365-0437517a9d5a,"Smith, Green and George Eatery",Michael Johnson,4,Loved the elegant desserts and fine wine selection.,Indian,2024-12-03
+97f9371a-1fa3-442a-bc06-8c5baf45f1b2,Wilson Ltd Grill,Daniel Cox,2,The burger was dry and the fries were cold.,American,2024-09-23
+2d26f5d6-b4ff-45ca-8d61-8d2e7a40c6b6,"Austin, Brady and Thompson Kitchen",Briana Harris,5,Loved the elegant desserts and fine wine selection.,Italian,2024-09-18
+e45ff285-aa5e-4200-a92a-9fbb1e3301aa,"Morris, Henry and Quinn Grill",Hannah Miller DDS,5,The curry had the perfect balance of spices.,Indian,2025-01-24
+ad18eb65-fc48-4ef2-a3b1-88371c79525a,"Sherman, Perez and Brown Eatery",Daniel Cox,5,Amazing burgers with crispy fries on the side.,Japanese,2024-09-01
+b5a639a4-6691-4e4a-a2dc-2b0d72cea7cd,Ayers-Taylor Grill,Nicole Duran,3,"A simple meal, met expectations but didn’t wow me.",Italian,2024-12-31
+6156bbd7-c92e-4f9d-9d8e-4f821760524d,Wood Group Steakhouse,John Rodriguez,2,The sushi tasted off and lacked freshness.,American,2025-01-19
+eae42544-56a4-4681-aa0b-2e55aceffabb,Rodriguez-Kent Eatery,Audrey Davis,4,The curry had the perfect balance of spices.,Indian,2024-03-24
+02864f45-a633-4f02-b051-d97f9e1b6ce3,Greene-Hill Steakhouse,David Kaiser,5,The tacos were bursting with authentic taste.,Italian,2024-08-02
+5aa90203-e236-43ee-826b-14576651ec24,Johnston LLC Kitchen,Joseph Smith,2,Desserts were overpriced and underwhelming.,American,2024-07-05
+e75e5991-9047-4476-9eb9-8874cb55e601,Thomas-Moore Bistro,Casey Flores,1,The curry was too salty and overpowering.,Japanese,2024-06-11
+2dcc721a-0191-4091-9719-884f3c362f03,Miles and Sons Grill,Wesley Silva,4,Exceptional sushi — fresh and beautifully presented.,American,2025-01-25
+824dfadd-f3be-47c8-a5cb-58a7a5e91d51,Weeks-Wells Cafe,Christopher Graham,3,"A simple meal, met expectations but didn’t wow me.",Italian,2024-12-27
+b8eb67f8-8dc4-4409-b14c-37c360f4f013,"Green, Hughes and White Cafe",Tiffany Kim,3,"A simple meal, met expectations but didn’t wow me.",French,2024-11-22
+ce7736de-f260-40a1-a34e-c860b4e4e477,Estrada Ltd Diner,Brandon Morris,1,Desserts were overpriced and underwhelming.,Indian,2025-01-28
+82ca0ae1-ff52-4dfb-91a0-7d06dd7017a0,Herrera Inc Bistro,Benjamin Anderson,3,"A simple meal, met expectations but didn’t wow me.",French,2024-12-30
+ec7ca7b2-0f49-4c93-a52b-f524b3b37d46,Burton Group Cafe,Michael Johnson,3,"Portions were fair, but the flavors didn’t stand out.",Mexican,2024-09-07
+d86603c8-de7a-4512-97f0-614e42a863a0,"Swanson, Black and Williams Diner",Charles Haas,5,The tacos were bursting with authentic taste.,French,2025-02-27
+a90c7576-bc9a-450c-b770-16ea27543210,"Burke, Smith and Ward Grill",Connie Cox,3,"The food was okay, nothing too special.",French,2024-11-09
+5410b02d-f6de-462c-b749-f7873279c468,"Contreras, Pratt and Perry Diner",Sandra Banks,5,Exceptional sushi — fresh and beautifully presented.,Italian,2024-09-21
+c47524ba-3519-414b-bb43-63842a966a64,Robertson-Wilcox Kitchen,Katherine Berry,1,The burger was dry and the fries were cold.,Indian,2024-03-17
+e82438bd-e76f-44d6-af5e-70ea5c5f70cc,Duarte LLC Steakhouse,Timothy Ayers,4,The tacos were bursting with authentic taste.,Japanese,2024-10-10
+840ac873-3163-404d-893a-2b94982c7380,Robles PLC Grill,Lynn Smith,1,The curry was too salty and overpowering.,Indian,2024-12-16
+1deb62eb-fae3-4899-9e8c-884a5c052b5d,Allen-Henry Bistro,Brian Marshall,3,"A simple meal, met expectations but didn’t wow me.",Indian,2025-02-11
+60d65c79-58fc-46ca-b5b5-dd1976173f09,Smith-Pearson Steakhouse,Martha Powell,2,The burger was dry and the fries were cold.,Japanese,2025-01-30
+c2a55426-5519-40c3-8f74-6a4fb43a7617,Landry Inc Kitchen,Phillip Brown,2,The burger was dry and the fries were cold.,French,2024-12-11
+848cfae9-9d70-4ae2-adef-157b971f062a,Mendoza-Green Steakhouse,Megan Lewis,4,The pasta was perfectly cooked and full of flavor!,Mexican,2024-04-11

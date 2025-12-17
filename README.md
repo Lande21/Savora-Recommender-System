@@ -30,7 +30,7 @@ As dining options expand, users struggle to sift through thousands of restaurant
 - User-generated review text
 - Ratings and timestamps
   - Big Data Architecture
-  - 
+ ![Big data Architecture](https://github.com/Lande21/Savora-Recommender-System/blob/main/CIS641_Architecture_design.png)
 ### Hadoop Pipeline
 Built a MapReduce workflow running on **Hadoop 2.8.2 in Docker** to process millions of reviews:
 

@@ -1,5 +1,5 @@
 # Savora-Recommender-System
-A restaurant recommendation system with Spark MLLib
+A restaurant recommendation system with Spark MLLib [View presentation here](https://github.com/Lande21/Savora-Recommender-System/blob/main/SAVORA_CIS641_Pitch%202.pdf)
 - Using: **Hybrid ML Model • Hadoop MapReduce • Spark MLlib • NLP • Data Engineering**
 
 # Summary
@@ -80,7 +80,7 @@ This approach significantly improves recommendations for new users and new resta
   
 
 ## 6. Pitch Deck / Presentation
-![Savora presentation deck](https://github.com/Lande21/Savora-Recommender-System/blob/main/SAVORA_CIS641_Pitch%202.pdf)
+[Savora presentation deck](https://github.com/Lande21/Savora-Recommender-System/blob/main/SAVORA_CIS641_Pitch%202.pdf)
 ## 7. Tech Stack
 - Hadoop 2.8.2 (Docker) — MapReduce ETL
 - Python 2.7.5 (for compatibility)
